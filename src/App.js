@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import { Form } from '@rentalkit/core/modules';
+// import { ButtonComponent } from '@rentalkit/core/modules';
 
 class App extends Component {
   render() {
@@ -15,7 +15,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-          <Form>Hello</Form>
+          {/*<ButtonComponent>Hello</ButtonComponent>*/}
           <br/>
           <rental-form>Hello2</rental-form>
       </div>
