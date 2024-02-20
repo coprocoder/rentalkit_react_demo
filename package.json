@@ -1,12 +1,17 @@
 {
   "name": "rentalkit_react",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "author": "Coprocoder",
+  "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "0.9.5",
-    "rentalkit": "git+ssh://git@github.com:coprocoder/rentalkit.git"
+    "rentalkit": "git+ssh://git@github.com/coprocoder/rentalkit.git",
+    "@rentalkit/core": "file:./node_modules/rentalkit/core"
   },
   "devDependencies": {},
   "scripts": {
