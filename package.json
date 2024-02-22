@@ -10,7 +10,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "0.9.5",
-    "rentalkit": "git+ssh://git@github.com/coprocoder/rentalkit.git",
+    "rentalkit": "git+https://gitlab.com/coprocoder/rentalkit.git",
     "@rentalkit/core": "file:./node_modules/rentalkit/core"
   },
   "devDependencies": {},
